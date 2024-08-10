@@ -15,7 +15,7 @@ Web ve mobil geliştirme konusunda tutkuluyum! İşte hakkımda biraz daha bilgi
 
 - 💬 Yukarıda listelenen diller ve teknolojilerle ilgili her şeyi sormaktan çekinmeyin.
 
-- 📫 Bana ulaşmak için: [your.email@example.com] adresine e-posta gönderebilirsiniz.
+- 📫 Bana ulaşmak için: [info@sosyosoft.com] adresine e-posta gönderebilirsiniz.
 
 - ⚡ İlginç bir gerçek: Karmaşık kodlama problemlerine dalmayı ve zarif çözümler bulmayı seviyorum!
 
