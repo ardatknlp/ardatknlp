@@ -1,4 +1,4 @@
-## Merhaba! 👋
+## Merhaba, Ben Arda! 👋
 
 Web ve mobil geliştirme konusunda tutkuluyum! İşte hakkımda biraz daha bilgi:
 
